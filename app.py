@@ -12,7 +12,7 @@ from torch import nn
 '''
 Before you run the app.py, do the following, to set variabes for access keys and secret key.
 
-'export AWS_ACCESS_KEY_ID equal to xxx'g
+'export AWS_ACCESS_KEY_ID equal = xxx'g
 'export AWS_SECRET_ACCESS_KEY equal to xxx'
 
 This is to adhere to security practices
